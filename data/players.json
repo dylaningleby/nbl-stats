@@ -1,0 +1,1058 @@
+[
+ {
+   "id": 1,
+   "name": "Aaron Fearne",
+   "position": ["Forward"],
+   "nationality": ["Australian"]
+ },
+ {
+   "id": 2,
+   "name": "Aaron Grabau",
+   "position": ["Guard"],
+   "nationality": ["Australian"]
+ },
+ {
+   "id": 3,
+   "name": "Aaron Trahair",
+   "position": ["Guard"],
+   "nationality": ["Australian"]
+ },
+ {
+   "id": 4,
+   "name": "Akoldah Gak",
+   "position": ["Forward"],
+   "nationality": ["Australian"]
+ },
+ {
+   "id": 5,
+   "name": "Al Hamilton",
+   "position": ["Forward"],
+   "nationality": ["American"]
+ },
+ {
+   "id": 6,
+   "name": "Alex Higgins-Titsha",
+   "position": ["Forward"],
+   "nationality": ["Australian"]
+ },
+ {
+   "id": 7,
+   "name": "Alex Loughton",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 8,
+   "name": "Alex Mudronja",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 9,
+   "name": "Andre Moore",
+   "position": "Forward",
+   "nationality": "American/Australian"
+ },
+ {
+   "id": 10,
+   "name": "Andrew Clarke",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 11,
+   "name": "Andrew Warren",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 12,
+   "name": "Anthony Fisher",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 13,
+   "name": "Anthony Stewart",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 14,
+   "name": "Ashley Constable",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 15,
+   "name": "Ayinde Ubaka",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 16,
+   "name": "Ben Arkell",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 17,
+   "name": "Ben Ayre",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 18,
+   "name": "Benjamin Knight",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 19,
+   "name": "Bobi Klintman",
+   "position": "Forward",
+   "nationality": "Swedish"
+ },
+ {
+   "id": 20,
+   "name": "Brad Hill",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 21,
+   "name": "Brad Robbins",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 22,
+   "name": "Brad Williams",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 23,
+   "name": "Bradley Davidson",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 24,
+   "name": "Brayden Inger",
+   "position": "Forward",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 25,
+   "name": "Brendan Clowry",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 26,
+   "name": "Brook Ruscoe",
+   "position": "Guard",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 27,
+   "name": "Bul Kuol",
+   "position": "Forward",
+   "nationality": "South Sudanese/Australian"
+ },
+ {
+   "id": 28,
+   "name": "Cameron Gliddon",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 29,
+   "name": "Cameron Oliver",
+   "position": "Center",
+   "nationality": "American"
+ },
+ {
+   "id": 30,
+   "name": "Cameron Tragardh",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 31,
+   "name": "Chris Burgess",
+   "position": "Center",
+   "nationality": "American"
+ },
+ {
+   "id": 32,
+   "name": "Chris Novak",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 33,
+   "name": "Chris Patton",
+   "position": "Center",
+   "nationality": "Australian"
+ },
+ {
+   "id": 34,
+   "name": "Christian Jurlina",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 35,
+   "name": "Clint Steindl",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 36,
+   "name": "Corey Maynard",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 37,
+   "name": "Damon Heuir",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 38,
+   "name": "Damon Thornton",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 39,
+   "name": "Daniel Dillon",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 40,
+   "name": "Daniel George",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 41,
+   "name": "Darnell Mee",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 42,
+   "name": "Dave Thomas",
+   "position": "Forward",
+   "nationality": "Canadian"
+ },
+ {
+   "id": 43,
+   "name": "David Cooper",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 44,
+   "name": "Dayshon Smith",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 45,
+   "name": "Dean Brebner",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 46,
+   "name": "Deba George",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 47,
+   "name": "Demetri McCamey",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 48,
+   "name": "Deshon Taylor",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 49,
+   "name": "Devon Hall",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 50,
+   "name": "Dewey Michaels",
+   "position": "Center",
+   "nationality": "American/Australian"
+ },
+ {
+   "id": 51,
+   "name": "Dexter Kernich-Drew",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 52,
+   "name": "Dillon Stith",
+   "position": "Forward",
+   "nationality": "American/Australian"
+ },
+ {
+   "id": 53,
+   "name": "DJ Hogg",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 54,
+   "name": "DJ Newbill",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 55,
+   "name": "Dusty Rychart",
+   "position": "Forward",
+   "nationality": "American/Australian"
+ },
+ {
+   "id": 56,
+   "name": "Dwayne Vale",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 57,
+   "name": "Fabijan Krslovic",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 58,
+   "name": "Fuquan Edwin",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 59,
+   "name": "Gabe Hadley",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 60,
+   "name": "Gareth Dawson",
+   "position": "Forward",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 61,
+   "name": "Gary Boodnikoff",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 62,
+   "name": "George Blagojevic",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 63,
+   "name": "Gerald Zimmerman",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 64,
+   "name": "Grant Kruger",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 65,
+   "name": "Hyrum Harris",
+   "position": "Forward",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 66,
+   "name": "Ian Crosswhite",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 67,
+   "name": "Jack Madgen",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 68,
+   "name": "Jack McVeigh",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 69,
+   "name": "Jack White",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 70,
+   "name": "Jackson Makoi",
+   "position": "Guard",
+   "nationality": "South Sudanese/Australian"
+ },
+ {
+   "id": 71,
+   "name": "Jamar Wilson",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 72,
+   "name": "James Comino",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 73,
+   "name": "James Mitchell",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 74,
+   "name": "Jamie Pearlman",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 75,
+   "name": "Jared Newson",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 76,
+   "name": "Jarrad Weeks",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 77,
+   "name": "Jarrod Kenny",
+   "position": "Guard",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 78,
+   "name": "Jayson Wells",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 79,
+   "name": "Jeff Dowdell",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 80,
+   "name": "Jerry Evans Jr",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 81,
+   "name": "Jonah Antonio",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 82,
+   "name": "Jordan Hunt",
+   "position": "Forward",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 83,
+   "name": "Jordan Ngatai",
+   "position": "Forward",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 84,
+   "name": "Josh Davey",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 85,
+   "name": "Josh Roberts",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 86,
+   "name": "Julien Mills",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 87,
+   "name": "Justin Soleimani",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 88,
+   "name": "Kane Oakley",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 89,
+   "name": "Keanu Pinder",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 90,
+   "name": "Keiron Mitchelhill",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 91,
+   "name": "Kenny Payne",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 92,
+   "name": "Kerry Williams",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 93,
+   "name": "Kevin Owens",
+   "position": "Center",
+   "nationality": "American"
+ },
+ {
+   "id": 94,
+   "name": "Kian Dennis",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 95,
+   "name": "Kody Stattmann",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 96,
+   "name": "Kouat Noi",
+   "position": "Forward",
+   "nationality": "South Sudanese/Australian"
+ },
+ {
+   "id": 97,
+   "name": "Kuany Kuany",
+   "position": "Forward",
+   "nationality": "South Sudanese/Australian"
+ },
+ {
+   "id": 98,
+   "name": "Kyle Adnam",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 99,
+   "name": "Kyrin Galloway",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 100,
+   "name": "Lachlan Anderson",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 101,
+   "name": "Larry Abney",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 102,
+   "name": "Lat Mayen",
+   "position": "Forward",
+   "nationality": "South Sudanese/Australian"
+ },
+ {
+   "id": 103,
+   "name": "Lindsay Tait",
+   "position": "Guard",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 104,
+   "name": "Lloyd McVeigh",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 105,
+   "name": "Lucas Walker",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 106,
+   "name": "Luke Martin",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 107,
+   "name": "Majok Deng",
+   "position": "Forward",
+   "nationality": "South Sudanese/Australian"
+ },
+ {
+   "id": 108,
+   "name": "Marcus Timmons",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 109,
+   "name": "Mark Worthington",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 110,
+   "name": "Markel Starks",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 111,
+   "name": "Marshall Nelson",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 112,
+   "name": "Martin Cattalini",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 113,
+   "name": "Matt Garrison",
+   "position": "Center",
+   "nationality": "American"
+ },
+ {
+   "id": 114,
+   "name": "Matt Smith",
+   "position": "Center",
+   "nationality": "Australian"
+ },
+ {
+   "id": 115,
+   "name": "Matthew Alexander",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 116,
+   "name": "Matthew Andronicos",
+   "position": "Center",
+   "nationality": "Australian"
+ },
+ {
+   "id": 117,
+   "name": "Matthew Burston",
+   "position": "Center",
+   "nationality": "Australian"
+ },
+ {
+   "id": 118,
+   "name": "Matthew Shanahan",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 119,
+   "name": "Melo Trimble",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 120,
+   "name": "Melvin Thomas",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 121,
+   "name": "Michael Carrera",
+   "position": "Forward",
+   "nationality": "Venezuelan"
+ },
+ {
+   "id": 122,
+   "name": "Michael Chitham",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 123,
+   "name": "Mirko Djeric",
+   "position": "Guard",
+   "nationality": "Australian/Serbian"
+ },
+ {
+   "id": 124,
+   "name": "Mitch McCarron",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 125,
+   "name": "Mitch Philp",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 126,
+   "name": "Mitchell Young",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 127,
+   "name": "Mojave King",
+   "position": "Guard",
+   "nationality": "American/New Zealander"
+ },
+ {
+   "id": 128,
+   "name": "Nathan Crosswell",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 129,
+   "name": "Nathan Jawai",
+   "position": "Center",
+   "nationality": "Australian"
+ },
+ {
+   "id": 130,
+   "name": "Nathan Sobey",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 131,
+   "name": "Nik Mirich",
+   "position": "Center",
+   "nationality": "Australian"
+ },
+ {
+   "id": 132,
+   "name": "Nnanna Egwu",
+   "position": "Center",
+   "nationality": "American"
+ },
+ {
+   "id": 133,
+   "name": "Patrick Miller",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 134,
+   "name": "Pedro Bradshaw",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 135,
+   "name": "Phillip Jones",
+   "position": "Guard",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 136,
+   "name": "Quintaris Sherrill",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 137,
+   "name": "Rashad Tucker",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 138,
+   "name": "Rashamel Jones",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 139,
+   "name": "Reyne Smith",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 140,
+   "name": "Rich Melzer",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 141,
+   "name": "Ricky Robinson",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 142,
+   "name": "Rob Edwards",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 143,
+   "name": "Robbie Heath",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 144,
+   "name": "Robert Loe",
+   "position": "Center",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 145,
+   "name": "Robert Rose",
+   "position": "Guard",
+   "nationality": "American/Australian"
+ },
+ {
+   "id": 146,
+   "name": "Ron Dorsey",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 147,
+   "name": "Ron Kelley",
+   "position": "Center",
+   "nationality": "American"
+ },
+ {
+   "id": 148,
+   "name": "Rupert Sapwell",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 149,
+   "name": "Sam Mennenga",
+   "position": "Center",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 150,
+   "name": "Sam Waardenburg",
+   "position": "Forward",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 151,
+   "name": "Scott Cook",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 152,
+   "name": "Scott Machado",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 153,
+   "name": "Scottie Wilbekin",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 154,
+   "name": "Shane Edwards",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 155,
+   "name": "Shannon Scott",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 156,
+   "name": "Shaun Bruce",
+   "position": "Guard,Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 157,
+   "name": "Stephen Black",
+   "position": "Forward,Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 158,
+   "name": "Stephen Weigh",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 159,
+   "name": "Stephen Zimmerman",
+   "position": "Center",
+   "nationality": "American"
+ },
+ {
+   "id": 160,
+   "name": "Tad Dufelmeier",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 161,
+   "name": "Tahjere McCall",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 162,
+   "name": "Tai Wynyard",
+   "position": "Forward",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 163,
+   "name": "Tanner Groves",
+   "position": "Center",
+   "nationality": "American"
+ },
+ {
+   "id": 164,
+   "name": "Taran Armstrong",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 165,
+   "name": "Tate Decker",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 166,
+   "name": "Terry Johnson",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 167,
+   "name": "Tevin Jackson",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 168,
+   "name": "Tim Behrendorff",
+   "position": "Center",
+   "nationality": "Australian"
+ },
+ {
+   "id": 169,
+   "name": "Tim Duggan",
+   "position": "Guard",
+   "nationality": "Australian"
+ },
+ {
+   "id": 170,
+   "name": "Tony Mitchell",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 171,
+   "name": "Tony Rampton",
+   "position": "Center",
+   "nationality": "New Zealander"
+ },
+ {
+   "id": 172,
+   "name": "Torrey Craig",
+   "position": "Forward",
+   "nationality": "American"
+ },
+ {
+   "id": 173,
+   "name": "Travis Trice",
+   "position": "Guard",
+   "nationality": "American"
+ },
+ {
+   "id": 174,
+   "name": "Troy Boundy",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 175,
+   "name": "Venky Jois",
+   "position": "Forward",
+   "nationality": "Australian"
+ },
+ {
+   "id": 176,
+   "name": "Will Sinclair",
+   "position": "Center",
+   "nationality": "Australian"
+ }
+]
