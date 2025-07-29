@@ -5,13 +5,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Shot Chart Heatmap</title>
   <link rel="stylesheet" href="styles.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/heatmap.js/2.0.5/heatmap.min.js"></script>
+  <script src="https://unpkg.com/heatmap.js@2.0.5/build/heatmap.min.js"></script>
 </head>
 <body>
-  <div id="court-container">
-    <img id="court-image" src="court.png" alt="Basketball Court">
-    <div id="heatmapContainer"></div>
-  </div>
+  <canvas id="courtCanvas" width="500" height="470"></canvas>
+	<div id="tooltip" style="
+  position: absolute;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 6px 8px;
+  border-radius: 4px;
+  font-size: 14px;
+  pointer-events: none;
+  white-space: pre-line;
+  display: none;
+  z-index: 10;
+"></div>
   <script src="script.js"></script>
 </body>
 </html>
