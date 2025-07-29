@@ -1,0 +1,22 @@
+[
+ {
+   "id": 1,
+   "name": "Adam Forde",
+   "nationality": ["Australian"]
+ },
+ {
+   "id": 2,
+   "name": "Will Lopez",
+   "nationality": ["Australian"]
+ },
+ {
+   "id": 3,
+   "name": "Kerry Williams",
+   "nationality": ["Australian"]
+ },
+ {
+   "id": 4,
+   "name": "Mitch Langford",
+   "nationality": ["Australian"]
+ }
+]
