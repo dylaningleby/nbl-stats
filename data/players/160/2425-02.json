@@ -1,0 +1,51 @@
+{
+  "player_id": "160",
+  "game_id": "2425-02",
+  "number": 5,
+  "minutes": "5:05",
+  "points": 3,
+  "3pm": 1,
+  "3pa": 1,
+  "2pm": 0,
+  "2pa": 1,
+  "ftm": 0,
+  "fta": 0,
+  "off_rebounds": 0,
+  "def_rebounds": 0,
+  "assists": 0,
+  "steals": 0,
+  "blocks": 0,
+  "turnovers": 0,
+  "fouls_committed": 1,
+  "fouls_drawn": 1,
+  "points_in_paint": 0,
+  "second_chance_points": 0,
+  "fast_break_points": 0,
+  "plus_minus": 1,
+  "shots": [
+    {
+        "clock": "3:18",
+        "cns_score": 44,
+        "opp_score": 49,
+        "period": 2,
+        "result": "missed",
+        "score_value": 2,
+        "x": 9.359999657,
+        "y": 65.02999878,
+        "qualifier": ["pointsinthepaint"],
+        "type": "drivinglayup"
+    },
+    {
+        "clock": "4:07",
+        "cns_score": 44,
+        "opp_score": 48,
+        "period": 2,
+        "result": "success",
+        "score_value": 3,
+        "x": 26.37000084,
+        "y": 19.82999992,
+        "qualifier": [],
+        "type": "jumpshot"
+    }
+  ]
+}

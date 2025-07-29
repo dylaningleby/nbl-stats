@@ -583,7 +583,7 @@
         "qualifier": ["2ndchance", "fromturnover"],
         "type": "drivinglayup",
         "player": "Tyler Harvey",
-        "blocked_by": "Tanner Groves"
+        "blocked_by": 163
     },
     {
         "clock": "09:04",
@@ -610,7 +610,7 @@
         "qualifier": ["pointsinthepaint", "blocked"],
         "type": "fadeaway",
         "player": "Sam Froling",
-        "blocked_by": "Sam Waardenburg"
+        "blocked_by": 150
     },
     {
         "clock": "00",
@@ -1067,7 +1067,7 @@
         "qualifier": ["pointsinthepaint", "blocked"],
         "type": "drivinglayup",
         "player": "William Hickey",
-        "blocked_by": "Pedro Bradshaw"
+        "blocked_by": 134
     },
     {
         "clock": "03:35",
