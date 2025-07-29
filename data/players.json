@@ -297,7 +297,7 @@
    "id": 50,
    "name": "Dewey Michaels",
    "position": ["Center"],
-   "nationality": ["American/Australian"]
+   "nationality": ["American","Australian"]
  },
  {
    "id": 51,
@@ -309,7 +309,7 @@
    "id": 52,
    "name": "Dillon Stith",
    "position": ["Forward"],
-   "nationality": ["American/Australian"]
+   "nationality": ["American","Australian"]
  },
  {
    "id": 53,
@@ -327,7 +327,7 @@
    "id": 55,
    "name": "Dusty Rychart",
    "position": ["Forward"],
-   "nationality": ["American/Australian"]
+   "nationality": ["American","Australian"]
  },
  {
    "id": 56,
@@ -417,7 +417,7 @@
    "id": 70,
    "name": "Jackson Makoi",
    "position": ["Guard"],
-   "nationality": ["South Sudanese/Australian"]
+   "nationality": ["South Sudanese","Australian"]
  },
  {
    "id": 71,
@@ -573,13 +573,13 @@
    "id": 96,
    "name": "Kouat Noi",
    "position": ["Forward"],
-   "nationality": ["South Sudanese/Australian"]
+   "nationality": ["South Sudanese","Australian"]
  },
  {
    "id": 97,
    "name": "Kuany Kuany",
    "position": ["Forward"],
-   "nationality": ["South Sudanese/Australian"]
+   "nationality": ["South Sudanese","Australian"]
  },
  {
    "id": 98,
@@ -609,7 +609,7 @@
    "id": 102,
    "name": "Lat Mayen",
    "position": ["Forward"],
-   "nationality": ["South Sudanese/Australian"]
+   "nationality": ["South Sudanese","Australian"]
  },
  {
    "id": 103,
@@ -639,7 +639,7 @@
    "id": 107,
    "name": "Majok Deng",
    "position": ["Forward"],
-   "nationality": ["South Sudanese/Australian"]
+   "nationality": ["South Sudanese","Australian"]
  },
  {
    "id": 108,
@@ -735,7 +735,7 @@
    "id": 123,
    "name": "Mirko Djeric",
    "position": ["Guard"],
-   "nationality": ["Australian/Serbian"]
+   "nationality": ["Australian","Serbian"]
  },
  {
    "id": 124,
@@ -759,7 +759,7 @@
    "id": 127,
    "name": "Mojave King",
    "position": ["Guard"],
-   "nationality": ["American/New Zealander"]
+   "nationality": ["American","New Zealander"]
  },
  {
    "id": 128,
@@ -867,7 +867,7 @@
    "id": 145,
    "name": "Robert Rose",
    "position": ["Guard"],
-   "nationality": ["American/Australian"]
+   "nationality": ["American","Australian"]
  },
  {
    "id": 146,
